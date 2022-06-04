@@ -1,2 +1,2 @@
-# games
-Maze game
+# 3D Unity game
+Maze and ball game
