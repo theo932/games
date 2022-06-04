@@ -1,0 +1,2 @@
+# games
+Maze game
